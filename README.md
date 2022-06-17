@@ -1,5 +1,4 @@
 # HCIFacebook
-HCI Facebook
 
 Reupload for public version with sensitive data removed
 
