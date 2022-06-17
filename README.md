@@ -2,6 +2,12 @@
 
 Reupload for public version with sensitive data removed
 
+Use: Parses Facebook's zip of information on you to create interactive visualizations of the data they know about you
+
+To obtain your Facebook zip: Facebook settings > Your Facebook information > Download your information > Tick all boxes and request a download
+
+Visualizations: Friends, IP locations logged in from, Groups interacted with, Marketing Profile, Apps sharing data with Facebook, Number of messages and photos on file
+
 To Run: Streamlit run Streamlit.py
 
 or loader on its own: python Loader.py
