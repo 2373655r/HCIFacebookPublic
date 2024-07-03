@@ -1,6 +1,6 @@
 # HCIFacebook
 
-Reupload for public version with sensitive data removed
+Reupload for public version
 
 Use: Parses Facebook's zip of information on you to create interactive visualizations of the data they know about you
 
